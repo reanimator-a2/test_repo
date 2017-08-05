@@ -1,1 +1,4 @@
-﻿print("Hello world!")
+﻿text = "Hello world!"
+
+for i in text:
+    print(i)
